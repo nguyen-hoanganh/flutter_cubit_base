@@ -1,3 +1,4 @@
+# Hoàng Anh tạo ngày 22/7/2024
 # base_flutter_core
 
 A new Flutter project. levik <Hoang Anh> dựng base để dùng cho các ứng dụng có độ phức tạp trung bình
